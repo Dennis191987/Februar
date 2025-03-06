@@ -1,0 +1,41 @@
+h3 {
+    color:rgb(235, 16, 213)
+}
+h1 {
+    color:gold
+}
+h2 {
+    color:crimson
+}
+body {
+    background-color: rgb(75, 139, 243);
+}
+
+p{
+    color:bisque
+}
+b {
+    color:red
+}
+button {
+    background-color: rgb(38, 218, 218);
+    color: rgb(240, 105, 105);
+    padding: 5px 30px;
+    border: rgb(12, 0, 0) 2px solid;
+    cursor: pointer;
+    font-size: 18px;
+}
+button:hover {
+    background-color: rgb(7, 230, 144);
+    box-shadow: 10px 10px 10px rgb(188, 60, 239);
+}
+body {
+    text-align: center;
+    
+}
+thead {
+    color:chartreuse;
+}
+td {
+    color:crimson;
+}
